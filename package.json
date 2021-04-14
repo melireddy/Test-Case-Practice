@@ -6,10 +6,21 @@
   "dependencies": {
     "jest": "^26.6.3"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "coveralls": "^3.1.0",
+    "jenga": "0.0.2"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melireddy/Test-Case-Practice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/melireddy/Test-Case-Practice/issues"
+  },
+  "homepage": "https://github.com/melireddy/Test-Case-Practice#readme"
 }
