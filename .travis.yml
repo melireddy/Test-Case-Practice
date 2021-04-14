@@ -5,6 +5,4 @@ node_js:
 
 script:
   - npm test
-
-on success:
   - jest --coverage && coveralls < coverage/lcov.info
