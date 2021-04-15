@@ -10,6 +10,10 @@
     "coveralls": "^3.1.0",
     "jenga": "0.0.2"
   },
+  "jest": {
+  "coverageDirectory": "./coverage/",
+  "collectCoverage": true
+ },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
